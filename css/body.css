@@ -1,0 +1,38 @@
+body{
+    background-image:url('https://amplino.org/wp-content/uploads/2018/10/3e05f7a77b95270f8a32afc8d3c622ae.jpg');
+    background-size: auto 100vh;
+    font-family:Arial;
+    height: 100vh
+  }
+  
+  .menu{
+    background-color:white;
+  }
+  
+  .menu ul{
+    display:flex;
+    justify-content: space-around;
+  }
+  
+  .menu li{
+    list-style: none;
+  }
+  
+  a{
+    color:teal;
+    text-decoration: none;
+  }
+  
+  a:hover{
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,  
+  .site-title{
+      text-align: center;
+      color: whitesmoke;
+    }
+  
+  .site-subtitle{
+   font-style: italic; 
+  }
